@@ -1,3 +1,5 @@
 **/.DS_Store
 Dataset
 **/.ipynb_checkpoints
+.virtual_documents/
+temp/
